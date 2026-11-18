@@ -1,0 +1,10 @@
+# Colab supplies a CUDA-enabled PyTorch build. Install torch separately when
+# running elsewhere, matching the CUDA version of the target machine.
+transformers>=4.45,<6
+datasets>=2.20,<6
+accelerate>=0.34
+peft>=0.13
+trl>=0.12,<2
+bitsandbytes>=0.43
+pandas>=2.0
+numpy>=1.24
