@@ -1,0 +1,7 @@
+Metric,FP16,4-bit
+Average Tokens/Second,25.649,12.538
+Average Generation Time (seconds),7.815,15.955
+Average Generated Tokens,200,200
+Peak GPU Allocated (GB),5.767,1.947
+Peak GPU Reserved (GB),5.832,5.82
+GPU,Tesla T4,Tesla T4

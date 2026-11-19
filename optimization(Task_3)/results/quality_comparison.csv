@@ -1,0 +1,11 @@
+Prompt_ID,Prompt,FP16_Response,4BIT_Response,Quality_Status
+1,Explain what a REST API is in simple terms.,,,Responses not present in provided execution output; cannot compare.
+2,What is the difference between SQL and NoSQL databases?,,,Responses not present in provided execution output; cannot compare.
+3,Explain how a hash table works and its average time complexity.,,,Responses not present in provided execution output; cannot compare.
+4,Write a Python function to check whether a number is prime.,,,Responses not present in provided execution output; cannot compare.
+5,Explain the difference between supervised and unsupervised learning.,,,Responses not present in provided execution output; cannot compare.
+6,What is the purpose of the KV cache in large language models?,,,Responses not present in provided execution output; cannot compare.
+7,Explain how indexing improves database query performance.,,,Responses not present in provided execution output; cannot compare.
+8,What happens when a user enters a URL into a browser?,,,Responses not present in provided execution output; cannot compare.
+9,Explain the difference between concurrency and parallelism.,,,Responses not present in provided execution output; cannot compare.
+10,Design a simple architecture for a URL shortening service.,,,Responses not present in provided execution output; cannot compare.

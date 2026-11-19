@@ -1,0 +1,11 @@
+Configuration,Prompt_ID,Prompt,Response,Input_Tokens,Generated_Tokens,Generation_Time_Seconds,Tokens_Per_Second,Peak_GPU_Allocated_GB,Peak_GPU_Reserved_GB,Data_Status
+FP16,1,Explain what a REST API is in simple terms.,,,200,8.645996,23.132095,5.76671,5.832,Measured values recovered from saved notebook output; response/input-token values were not captured.
+FP16,2,What is the difference between SQL and NoSQL databases?,,,200,7.695231,25.990124,5.76671,5.832,Measured values recovered from saved notebook output; response/input-token values were not captured.
+FP16,3,Explain how a hash table works and its average time complexity.,,,200,7.903953,25.303794,5.766778,5.832,Measured values recovered from saved notebook output; response/input-token values were not captured.
+FP16,4,Write a Python function to check whether a number is prime.,,,200,7.339474,27.249911,5.766778,5.832,Measured values recovered from saved notebook output; response/input-token values were not captured.
+FP16,5,Explain the difference between supervised and unsupervised learning.,,,200,8.021914,24.931705,5.766778,5.832,Measured values recovered from saved notebook output; response/input-token values were not captured.
+FP16,6,What is the purpose of the KV cache in large language models?,,,200,7.795768,25.654945,5.766778,5.832,Measured values recovered from saved notebook output; response/input-token values were not captured.
+FP16,7,Explain how indexing improves database query performance.,,,200,7.467165,26.783926,5.766778,5.832,Measured values recovered from saved notebook output; response/input-token values were not captured.
+FP16,8,What happens when a user enters a URL into a browser?,,,200,8.00512,24.984009,5.766778,5.832,Measured values recovered from saved notebook output; response/input-token values were not captured.
+FP16,9,Explain the difference between concurrency and parallelism.,,,200,7.350207,27.210119,5.766778,5.832,Measured values recovered from saved notebook output; response/input-token values were not captured.
+FP16,10,Design a simple architecture for a URL shortening service.,,,200,7.920253,25.251719,5.766778,5.832,Measured values recovered from saved notebook output; response/input-token values were not captured.

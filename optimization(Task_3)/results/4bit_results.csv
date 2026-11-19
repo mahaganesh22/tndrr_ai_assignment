@@ -1,0 +1,11 @@
+Configuration,Prompt_ID,Prompt,Response,Input_Tokens,Generated_Tokens,Generation_Time_Seconds,Tokens_Per_Second,Peak_GPU_Allocated_GB,Peak_GPU_Reserved_GB,Data_Status
+4BIT,1,Explain what a REST API is in simple terms.,,,200,16.108349,12.415921,1.946425,5.82,Measured values recovered from saved notebook output; response/input-token values were not captured.
+4BIT,2,What is the difference between SQL and NoSQL databases?,,,200,15.85558,12.613856,1.946425,5.82,Measured values recovered from saved notebook output; response/input-token values were not captured.
+4BIT,3,Explain how a hash table works and its average time complexity.,,,200,16.24618,12.310586,1.946544,5.82,Measured values recovered from saved notebook output; response/input-token values were not captured.
+4BIT,4,Write a Python function to check whether a number is prime.,,,200,15.643141,12.785157,1.946544,5.82,Measured values recovered from saved notebook output; response/input-token values were not captured.
+4BIT,5,Explain the difference between supervised and unsupervised learning.,,,200,15.724796,12.718766,1.946544,5.82,Measured values recovered from saved notebook output; response/input-token values were not captured.
+4BIT,6,What is the purpose of the KV cache in large language models?,,,200,16.171768,12.367231,1.946544,5.82,Measured values recovered from saved notebook output; response/input-token values were not captured.
+4BIT,7,Explain how indexing improves database query performance.,,,200,16.087187,12.432254,1.946544,5.82,Measured values recovered from saved notebook output; response/input-token values were not captured.
+4BIT,8,What happens when a user enters a URL into a browser?,,,200,15.791883,12.664734,1.946544,5.82,Measured values recovered from saved notebook output; response/input-token values were not captured.
+4BIT,9,Explain the difference between concurrency and parallelism.,,,200,15.679916,12.75517,1.946544,5.82,Measured values recovered from saved notebook output; response/input-token values were not captured.
+4BIT,10,Design a simple architecture for a URL shortening service.,,,200,16.244529,12.311837,1.946544,5.82,Measured values recovered from saved notebook output; response/input-token values were not captured.
