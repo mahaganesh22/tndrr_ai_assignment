@@ -1,0 +1,31 @@
+Question,Gold PDF Page,Gold Printed Page,Retrieved Pages,Hit@5,Best Similarity,Chunk Size
+What is the primary purpose of the NIST AI Risk Management Framework?,7,2,"[1, 2, 37, 6, 8]",0,0.7628855109214783,256
+What are the four core functions of the AI RMF?,25,20,"[25, 8, 38, 26, 47]",1,0.7624828815460205,256
+What is the purpose of the GOVERN function?,26,21,"[26, 27, 28, 28, 29]",1,0.47789937257766724,256
+What is the purpose of the MAP function?,29,24,"[30, 46, 29, 30, 30]",1,0.5552123785018921,256
+What is the purpose of the MEASURE function?,33,28,"[33, 30, 26, 35, 33]",1,0.3573237359523773,256
+What is the purpose of the MANAGE function?,36,31,"[26, 37, 36, 37, 27]",1,0.49770885705947876,256
+What are the characteristics of trustworthy AI systems?,17,12,"[17, 18, 17, 5, 5]",1,0.7841237783432007,256
+Why is transparency important in AI systems?,20,15,"[20, 21, 22, 21, 20]",1,0.7363644242286682,256
+What does the AI RMF say accountability presupposes?,20,15,"[47, 24, 8, 7, 7]",0,0.6348419189453125,256
+What does validation confirm for a specific AI system use?,18,13,"[18, 19, 40, 19, 18]",1,0.626510500907898,256
+How does the AI RMF define a safe AI system?,19,14,"[25, 8, 6, 20, 35]",0,0.7006556987762451,256
+Why is explainability important in trustworthy AI?,21,16,"[21, 21, 17, 17, 5]",1,0.7515053749084473,256
+Where does the AI RMF say human judgment should be used?,17,12,"[45, 47, 14, 7, 9]",0,0.6027691960334778,256
+How does the AI RMF define risk tolerance?,12,7,"[12, 12, 1, 47, 9]",1,0.7452458739280701,256
+How should risk management be carried out over the AI system lifecycle?,25,20,"[26, 6, 13, 13, 9]",0,0.7823368310928345,256
+What is the primary purpose of the NIST AI Risk Management Framework?,7,2,"[1, 2, 38, 25, 8]",0,0.7628854513168335,512
+What are the four core functions of the AI RMF?,25,20,"[25, 8, 37, 26, 46]",1,0.7625939249992371,512
+What is the purpose of the GOVERN function?,26,21,"[27, 29, 25, 28, 46]",0,0.35216978192329407,512
+What is the purpose of the MAP function?,29,24,"[30, 46, 29, 32, 25]",1,0.35891664028167725,512
+What is the purpose of the MEASURE function?,33,28,"[33, 33, 34, 25, 38]",1,0.4438445568084717,512
+What is the purpose of the MANAGE function?,36,31,"[37, 25, 26, 27, 46]",0,0.42508870363235474,512
+What are the characteristics of trustworthy AI systems?,17,12,"[17, 7, 5, 18, 19]",1,0.7371507287025452,512
+Why is transparency important in AI systems?,20,15,"[20, 21, 21, 22, 45]",1,0.7430040836334229,512
+What does the AI RMF say accountability presupposes?,20,15,"[25, 8, 7, 4, 24]",0,0.5861606001853943,512
+What does validation confirm for a specific AI system use?,18,13,"[40, 19, 18, 16, 7]",1,0.5646858811378479,512
+How does the AI RMF define a safe AI system?,19,14,"[25, 13, 8, 6, 35]",0,0.702233612537384,512
+Why is explainability important in trustworthy AI?,21,16,"[21, 17, 21, 7, 20]",1,0.6881872415542603,512
+Where does the AI RMF say human judgment should be used?,17,12,"[7, 14, 45, 23, 45]",0,0.553534746170044,512
+How does the AI RMF define risk tolerance?,12,7,"[12, 1, 4, 13, 2]",1,0.6937291622161865,512
+How should risk management be carried out over the AI system lifecycle?,25,20,"[6, 12, 38, 19, 10]",0,0.7589242458343506,512
